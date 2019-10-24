@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+ .ratp, .lines {
+   color: white;
+   text-align: center;
+ }
+
+ .form {
+   margin: 20px  auto;
+   text-align: center;
+ }
+
+ input {
+  width: 300px;
+  padding: 6px;
+ }
+
+ button {
+   padding: 4px;
+   width: 200px;
+ }
